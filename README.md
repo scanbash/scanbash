@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @scanbash
+
+<!--- - Other places you can find me:
+- StackOverflow
+- Steam ---!>
+
 <!--- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
